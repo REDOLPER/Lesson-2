@@ -38,7 +38,7 @@
 
   ![alt text](/imgs/image5.png)
 
-  这里大概保持默认即可，意思是 从 克隆的 xxx 分支 合并到 原仓库下的 xxx 分支 。
+  这里大概保持默认即可，意思是 从 克隆的 xxx 分支 合并到 原仓库下的 xxx 分支。（上方的图片只是演示，你们的可能会是 base repository: xxx base: main <- head repository: xxx compare: main 这样一个形式）
 
 5. 最后提交 pr 就可以啦！（此时 pr 会是 Open 的状态，因为仓库的所有权在我这里，因此需要我这里手动合并哦）
 
